@@ -9,10 +9,10 @@ printf("Positive");
 }
 else if(x==0)
 {
-printf("zero");
+printf("Zero");
 }
 else
 {
-printf("negative");
+printf("Negative");
 }
 }
