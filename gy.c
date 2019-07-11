@@ -18,7 +18,7 @@ int main()
                 a[j+1]=c;
             }
         }
-    }
+    }   
     for(k=0;k<b;++k)
     {
         printf("%d ",a[k]);
